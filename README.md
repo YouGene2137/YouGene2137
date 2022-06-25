@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YouGene2137
 - 👀 I’m interested in programming, AI
-- 🌱 I’m currently learning Pythonfffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+- 🌱 I’m currently learning Python
 - 📫 You can contact me on my e-mail ehitusenko@gmail.com
 
 
