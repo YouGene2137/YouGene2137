@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YouGene2137
 - 👀 I’m interested in programming, AI
 - 🌱 I’m currently learning Python and write discord-bots
-- 📫 You can contact me on my e-mail ehitusenko@gmail.com
+- 📫 You can contact me on my e-mail ehitusenko@gmail.com or my discord YouGene#2042
 
 
 <!---
