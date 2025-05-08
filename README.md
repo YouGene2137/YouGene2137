@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YouGene2137
+- 👋 Hi, I’m Tenri(天理)
 - 👀 I’m interested in programming, AI
 - 🌱 I’m currently learning Python and write discord-bots
 - 📫 You can contact me on my e-mail ehitusenko@gmail.com or my discord YouGene#2042
